@@ -104,5 +104,5 @@ The notebook installs dependencies directly.
 
 ## Credits
 
-* **dots.ocr** (model and tools): Rednote HiLab — GitHub and model card linked above.
-* Training workflow: Taken from [wjbmattingly's trainig repo](https://github.com/wjbmattingly)), this notebook consolidates a straightforward, Colab-first workflow.
+* **dots.ocr** (model and tools): Rednote HiLab
+* Training workflow: Taken from [wjbmattingly's trainig repo](https://github.com/wjbmattingly), this notebook consolidates a straightforward, Colab-first workflow.
